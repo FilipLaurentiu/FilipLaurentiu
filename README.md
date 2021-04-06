@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FilipLaurentiu
+- 👀 I’m interested in open source projects
+- 🌱 I’m currently learning blockchain
+- 💞️ I’m looking to collaborate on anything related to blockchain space
+- 📫 You can reach me via email f.laurentiu26@gmail.com
