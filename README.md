@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @FilipLaurentiu
-- 👀 I’m interested in open source projects
-- 🌱 I’m currently working in the blockchain space
-- 💞️ I’m looking to collaborate on anything related to blockchain
-- 📫 You can reach me via email f.laurentiu26@gmail.com
+ISC2 CISSP & CC | Applied Cryptography | Security | Blockchain | ZK
+
+📫 You can reach me via email filiplaurentiu@proton.me
